@@ -3,6 +3,12 @@
 ## 📊 Project Overview  
 This project is an **Excel-based Coffee Sales Dashboard** designed to visualize and analyze coffee sales data. It provides key insights into sales performance, customer trends, and product demand, enabling businesses to make data-driven decisions.
 
+## 🖼️ Dashboard Preview  
+Below is a preview of the Coffee Sales Dashboard:  
+
+![Dashboard Preview](images/dashboard_preview.png)
+
+
 ## ✨ Features  
 - **Sales Overview**: Tracks total revenue, profit margins, and sales growth.  
 - **Top Products**: Highlights best-selling coffee products.  
