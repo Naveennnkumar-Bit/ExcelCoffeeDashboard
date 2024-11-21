@@ -12,7 +12,7 @@ This project is an **Excel-based Coffee Sales Dashboard** designed to visualize 
 
 ## 🗂️ Files Included  
 - `Coffee sales Dash.xlsx` - The main dashboard file.  
-- `CoffeeordersData.xlsx` - Raw sales data used for analysis.  
+- `CoffeeOrdersData.xlsx` - Raw sales data used for analysis.  
 - `README.md` - Project documentation.  
 
 ## 🚀 How to Use  
