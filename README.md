@@ -15,7 +15,19 @@ This project is an **Excel-based Coffee Sales Dashboard** designed to visualize 
 - `Sales_Data.xlsx` - Raw sales data used for analysis.  
 - `README.md` - Project documentation.  
 
-## 📥 Installation  
-1. Download the repository as a ZIP file or clone it:  
-   ```bash  
-   git clone https://github.com/username/CoffeeSalesDashboard.git  
+## 🚀 How to Use  
+1. Load the provided sales data into the dashboard.  
+2. Explore the dashboard's interactive elements to analyze sales performance.  
+3. Customize filters and slicers to focus on specific metrics.  
+
+## 📈 Insights Provided  
+- Identify peak sales periods.  
+- Discover best-performing coffee products.  
+- Evaluate customer preferences by demographics.  
+
+## 🛠️ Tools Used  
+- **Microsoft Excel**: For data visualization and dashboard creation.  
+- **Power Query**: To clean and preprocess data.  
+
+## 🤝 Contributing  
+Contributions are welcome! Feel free to submit a pull request or raise an issue for suggestions or bug fixes.  
