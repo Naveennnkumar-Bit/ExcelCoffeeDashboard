@@ -6,7 +6,7 @@ This project is an **Excel-based Coffee Sales Dashboard** designed to visualize 
 ## 🖼️ Dashboard Preview  
 Below is a preview of the Coffee Sales Dashboard:  
 
-![Dashboard Preview]((https://github.com/Naveennnkumar-Bit/ExcelCoffeeDashboard/blob/main/Coffee%20Dashboard.png))
+![Dashboard Preview](https://github.com/Naveennnkumar-Bit/ExcelCoffeeDashboard/blob/main/Coffee%20Dashboard.png)
 
 
 ## ✨ Features  
